@@ -6,7 +6,7 @@ If yoou are new and want to get familier to the rules of the game kindly refer t
  https://en.wikipedia.org/wiki/Rules_of_chess
  
 Cookies and their respective names are given below: 
- https://images.creativemarket.com/0.1.0/ps/299465/910/607/m1/fpnw/wm0/1410.m00.i103.n006.s.c12.chess-set-with-chess-names-.jpg?1421047171&s=8340fbc93b8aa0a5079d061bb5485519
+![alt text](<.https://images.creativemarket.com/0.1.0/ps/299465/910/607/m1/fpnw/wm0/1410.m00.i103.n006.s.c12.chess-set-with-chess-names-.jpg?1421047171&s=8340fbc93b8aa0a5079d061bb5485519>) 
 
 The game runs under several rules which are stated below and can also be read at the start of the game.
 Some Basic instructions :
