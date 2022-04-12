@@ -2,7 +2,7 @@ Chess is an abstract strategy game and involves no hidden information. It is pla
 
 ![chess_set](https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg) 
 
-If yoou are new and want to get familier to the rules of the game kindly refer the given wekipedia link:
+If you are new and want to get familier to the rules of the game kindly refer the given wekipedia link:
  https://en.wikipedia.org/wiki/Rules_of_chess
  
 Cookies and their respective names are given below: 
